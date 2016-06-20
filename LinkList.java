@@ -1,3 +1,7 @@
+problem no 41 of linklist chapter (from karumanchi book)
+
+
+
 package bucky;
 import java.util.Stack;
 import java.util.*;
