@@ -1,3 +1,5 @@
+problem no 57 of linked list chapter(from karumanchi book)
+
 package bucky;
 import java.util.*;
 public class LinkList {
